@@ -91,3 +91,19 @@ header a{
 #header-main-text{
     margin: 0px;
 }
+
+/* main-content section */
+#main-content{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#main-content #card-container{
+    display: flex;
+    gap: 55px;
+    justify-content: space-around;
+    margin-top: 63px;
+    padding: 0px 51px;
+}
+
+/* quote-section */
