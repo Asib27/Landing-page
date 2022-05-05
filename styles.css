@@ -106,4 +106,25 @@ header a{
     padding: 0px 51px;
 }
 
+
+.card{
+    flex: 1;
+}
+
 /* quote-section */
+#quote-section{
+    text-align: end;
+    padding: 0px 147px;
+}
+
+/* footer-section */
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: small;
+}
+
+/* signup-section */
+
