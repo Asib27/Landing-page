@@ -71,6 +71,7 @@ header a{
     height: 50px;
     font-size: 20px;
     width: 100px;
+    border: white 2px;
 }
 
 /* head section */
@@ -127,4 +128,16 @@ footer{
 }
 
 /* signup-section */
+#signup-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 10px 216px;
+    background-color: #3882f6;
+    border-radius: 56px;
+    color: #E5E7EB;
+}
 
+#signup-section-text #signup-section-text-head{
+    font-weight: bold;
+}
